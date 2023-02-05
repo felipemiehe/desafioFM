@@ -1,4 +1,5 @@
 ## dependencias para executar o projeto
+npm install routes
 
 npm install vue-router@4
 ou
@@ -9,3 +10,4 @@ rodar back -: php artisan serve
 
 Nome do banco felipe_db
 entrar no backend e em .env trocar por DB_DATABASE=bd_felipe
+
