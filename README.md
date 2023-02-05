@@ -1,5 +1,4 @@
 ## dependencias para executar o projeto
-npm install routes
 
 npm install vue-router@4
 ou
